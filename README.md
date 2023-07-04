@@ -1,2 +1,3 @@
-# nightking.lk
-The Emperor Of The Virtual Realm.
+# nightkinglk.web.app
+
+Repository for the static web site.
